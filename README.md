@@ -1,10 +1,12 @@
-# MixtapeNEO-3000
+# MixtapeNEO reworked
 It's not really new... but finally fully working wiht KiCAD and svg2Shenzhen.
 Reworked the "classic" 8Bit Mixtape NEO, now with new design, working amplifier 8002 and integrated speaker. Repsoitionend the battery holders, added holes for the speaker and improved the footprints hand-soldering.
 
 ## Fully redesigned version
 
 Clone / fork this repo and make your own design!!
+
+Modify it in other shapes, such as Eurorack? Make a really really small one? Simplfy it as a little sound toy?
 
 ## KiCAD PCB and 3d View
 
