@@ -10,7 +10,7 @@ Modify it in other shapes, such as Eurorack? Make a really really small one? Sim
 
 ## KiCAD PCB and 3d View
 
-![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/3d_mixtape_MutanMonkey.png)
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/8Bitmixtape_exampleDesign.png)
 
 ## KiCAD complete schematic
 
