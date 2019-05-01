@@ -17,8 +17,19 @@ Modify it in other shapes, such as Eurorack? Make a really really small one? Sim
 ![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/schematics_v32.jpg)
 
 
+## KiCAD dedicated footprints
+
+![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/Kicad_screenshot_2.png)
+
+
+### To Add
+* LiPo charge management
+* (ISP connector)
+
 ## creative design layer in Inkscape with svg2shenzhen extension
 
 ![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/inkscape_layers.png)
+
+Empty canvas in inkscape for creating all kind of creative PCB designs, edge.cut and drill layer taken from earlier editions. Use svg2shenzhen extension to export the footpring .kicad_mod to the dedicated footprint library.
 
 See more about svg2shenzhen here: https://github.com/badgeek/svg2shenzhen
