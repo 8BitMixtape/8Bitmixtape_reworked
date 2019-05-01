@@ -19,7 +19,7 @@ Modify it in other shapes, such as Eurorack? Make a really really small one? Sim
 
 ## KiCAD dedicated footprints
 
-![](https://github.com/8BitMixtape/MixtapeNEO-3000/raw/master/photos/Kicad_screenshot_2.png)
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/Kicad_dedicated.png)
 
 
 ### To Add
