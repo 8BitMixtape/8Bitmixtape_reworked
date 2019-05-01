@@ -1,14 +1,10 @@
 # MixtapeNEO-3000
 It's not really new... but finally fully working wiht KiCAD and svg2Shenzhen.
-Reworked the "classic" 8Bit Mixtape NEO, now with new design, working amplifier 8002 and integrated speaker.
-This special editiom was designed for the Workshop in Barcelona:
-http://wiki.8bitmixtape.cc/#/1_10-MutanMonkey-BCN
+Reworked the "classic" 8Bit Mixtape NEO, now with new design, working amplifier 8002 and integrated speaker. Repsoitionend the battery holders, added holes for the speaker and improved the footprints hand-soldering.
 
-## Fully assembled version
+## Fully redesigned version
 
-![](https://github.com/8BitMixtape/MutanMonkey_Mixtape3000/raw/master/photos/MutanMonkey_specialEdition.jpg)
-
-Now also available in the [8Bit Mixtape Shop](http://shop.8bitmixtape.cc/product/mutan-monkey-limited-edition-8bit-mixtape-neo-premade/ "Go to Shop")
+Clone / fork this repo and make your own design!!
 
 ## KiCAD PCB and 3d View
 
