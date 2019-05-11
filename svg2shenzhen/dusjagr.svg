@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.0mm"
+   height="10.0mm"
+   viewBox="0 0 16.0 10.0"
+   version="1.1"
+   id="svg21359"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="dusjagr.svg">
+  <defs
+     id="defs21353" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="63.59178"
+     inkscape:cy="-3.1081148"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g21925"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid21905"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata21356">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g21911"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG">
+    <rect
+       id="rect21909"
+       style="stroke:none;fill-opacity:1;fill:#FFFFFF"
+       height="10.0"
+       width="16.0"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g21913"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts" />
+  <g
+     id="g21915"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled" />
+  <g
+     id="g21917"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled" />
+  <g
+     id="g21919"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk-disabled" />
+  <g
+     id="g21921"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu" />
+  <g
+     id="g21923"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask-disabled" />
+  <g
+     id="g21925"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk">
+    <g
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1"
+       id="g13960"
+       transform="matrix(-1.1021044,-0.2844034,0,1.1021044,41.030757,-50.764497)">
+      <text
+         transform="matrix(-1.2019141,-0.31045248,0,0.83200621,0,0)"
+         id="text6239-4-7"
+         y="55.170052"
+         x="-29.710705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'8BIT WONDER';-inkscape-font-specification:'8BIT WONDER';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.97681093"
+         xml:space="preserve"
+         inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8Bit_MixTape_v03_pink.png"
+         inkscape:export-xdpi="499.97708"
+         inkscape:export-ydpi="499.97708"><tspan
+           id="tspan6241-1-0"
+           y="61.170052"
+           x="-29.710705"
+           sodipodi:role="line"
+           style="font-size:1.38645637px;line-height:0px;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093" /><tspan
+           id="tspan6243-2-3"
+           y="61.170052"
+           x="-29.710705"
+           sodipodi:role="line"
+           style="font-size:1.13882017px;line-height:0%;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093">SGMK 2o19</tspan><tspan
+           id="tspan7338"
+           y="66.600639"
+           x="-29.710705"
+           sodipodi:role="line"
+           style="font-size:1.09066963px;line-height:0%;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093" /></text>
+      <text
+         transform="matrix(-1.2019141,-0.31045248,0,0.83200621,0,0)"
+         id="text3326"
+         y="56.895111"
+         x="-29.710705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'8BIT WONDER';-inkscape-font-specification:'8BIT WONDER';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.97681093"
+         xml:space="preserve"
+         inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8Bit_MixTape_v03_pink.png"
+         inkscape:export-xdpi="499.97708"
+         inkscape:export-ydpi="499.97708"><tspan
+           id="tspan3322"
+           y="62.895111"
+           x="-29.710705"
+           sodipodi:role="line"
+           style="font-size:1.13882017px;line-height:0%;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093" /><tspan
+           id="tspan3324"
+           y="62.895111"
+           x="-29.710705"
+           sodipodi:role="line"
+           style="font-size:1.09066963px;line-height:0%;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093">version3.4</tspan></text>
+      <text
+         inkscape:export-ydpi="499.97708"
+         inkscape:export-xdpi="499.97708"
+         inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8Bit_MixTape_v03_pink.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'8BIT WONDER';-inkscape-font-specification:'8BIT WONDER';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.97681093"
+         x="-29.710705"
+         y="59.26091"
+         id="text3338"
+         transform="matrix(-1.2019141,-0.31045248,0,0.83200621,0,0)"><tspan
+           style="font-size:1.13882017px;line-height:0%;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093"
+           sodipodi:role="line"
+           x="-29.710705"
+           y="59.26091"
+           id="tspan3334"><tspan
+             style="font-size:1.38645637px;line-height:0px;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093"
+             id="tspan3340">Dusjagr</tspan></tspan><tspan
+           style="font-size:1.09066963px;line-height:0%;text-align:start;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke-width:0.97681093"
+           sodipodi:role="line"
+           x="-29.710705"
+           y="64.56768"
+           id="tspan3336" /></text>
+    </g>
+  </g>
+  <g
+     id="g21927"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill" />
+</svg>
