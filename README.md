@@ -20,7 +20,9 @@ Modify it in other shapes, such as Eurorack? Make a really really small one? Sim
 
 ### Print your own 3d-case
 
-![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/3d-case/MixTape_Case_VerMayl19_11.stl)
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/3d-case_viewer.png)
+
+https://github.com/8BitMixtape/8Bitmixtape_reworked/blob/master/3d-case/MixTape_Case_VerMayl19_11.stl
 
 ## KiCAD PCB and 3d View
 
