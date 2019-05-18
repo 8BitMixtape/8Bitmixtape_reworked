@@ -18,6 +18,10 @@ Clone / fork this repo and make your own design!!
 
 Modify it in other shapes, such as Eurorack? Make a really really small one? Simplfy it as a little sound toy?
 
+### Print your own 3d-case
+
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/3d-case/MixTape_Case_VerMayl19_11.stl)
+
 ## KiCAD PCB and 3d View
 
 ![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/8Bitmixtape_exampleDesign.png)
