@@ -24,6 +24,10 @@ Modify it in other shapes, such as Eurorack? Make a really really small one? Sim
 
 https://github.com/8BitMixtape/8Bitmixtape_reworked/blob/master/3d-case/MixTape_Case_VerMayl19_11.stl
 
+## Soldering Instruction
+
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/8BitMixtape_partsPlacement.jpg)
+
 ## KiCAD PCB and 3d View
 
 ![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/8Bitmixtape_exampleDesign.png)
