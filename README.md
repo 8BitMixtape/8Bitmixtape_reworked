@@ -6,6 +6,16 @@ Reworked the "classic" 8Bit Mixtape NEO, now with new design, working amplifier 
 
 Clone / fork this repo and make your own design!!
 
+### Digilog Version
+
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/digilog_version_streetTaipei.jpg)
+
+### Pixelache Version
+
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/pixelache_version_v01.png)
+
+### Make your own Designs!
+
 Modify it in other shapes, such as Eurorack? Make a really really small one? Simplfy it as a little sound toy?
 
 ## KiCAD PCB and 3d View
@@ -21,6 +31,8 @@ Modify it in other shapes, such as Eurorack? Make a really really small one? Sim
 
 ![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/Kicad_dedicated.png)
 
+
+Optimized footprints and 3d-models DONE. 
 
 ### To Add
 * LiPo charge management
