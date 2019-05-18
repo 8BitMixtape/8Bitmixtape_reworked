@@ -26,7 +26,11 @@ https://github.com/8BitMixtape/8Bitmixtape_reworked/blob/master/3d-case/MixTape_
 
 ## Soldering Instruction
 
-![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/8BitMixtape_partsPlacement.jpg)
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/instructions/8BitMixtape_partsPlacement.jpg)
+
+Download printable .pdf here:
+
+https://github.com/8BitMixtape/8Bitmixtape_reworked/blob/master/instructions/Digilog_Mixtape_partsplacement_v04.pdf
 
 ## KiCAD PCB and 3d View
 
