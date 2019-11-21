@@ -14,6 +14,10 @@ Clone / fork this repo and make your own design!!
 
 ![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/pixelache_version_v01.png)
 
+A limited edition of the Pixelache 2019 Mixtape kits are available from Steve Maher, get in contact with hom on fbook: https://www.facebook.com/steve.maher.39
+
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/pixelache_mixtape_kits.jpg)
+
 ### Make your own Designs!
 
 Modify it in other shapes, such as Eurorack? Make a really really small one? Simplfy it as a little sound toy?
