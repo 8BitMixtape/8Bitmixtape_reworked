@@ -22,7 +22,7 @@ A limited edition of the Pixelache 2019 Mixtape kits are available from Steve Ma
 
 Modify it in other shapes, such as Eurorack? Make a really really small one? Simplfy it as a little sound toy?
 
-![]https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/Reworked_PCB_editions.jpg)
+![](https://github.com/8BitMixtape/8Bitmixtape_reworked/raw/master/photos/Reworked_PCB_editions.jpg)
 
 ### Print your own 3d-case
 
